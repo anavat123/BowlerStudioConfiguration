@@ -1,6 +1,11 @@
 {
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/0487dceffa6beb332ea5686914c67041.git:BNO055Visualizer.groovy": [
+      "https://gist.github.com/0487dceffa6beb332ea5686914c67041.git",
+      "BNO055Visualizer.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.29.2",
     "fontsize": 12.0,
